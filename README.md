@@ -4,7 +4,7 @@ Submitted by: **Alston Dsouza**
 
 About this web app: **UnityGrid Plaza is a virtual community space for discovering live events at venues around Dallas. Users can explore an interactive visual map, select a venue, view events associated with that location, browse all upcoming events, and see how much time remains before each event.**
 
-Time spent: **10** hours
+Time spent: **20** hours
 
 ## Required Features
 
@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<!-- Add GIF or video walkthrough here -->
+[View the Video Walkthrough on Imgur](https://imgur.com/a/tR7wcxb)
 
 GIF created with **Kap**
 
